@@ -16,14 +16,6 @@ Welcome to the Tic Tac Toe mobile game! This is a simple Tic Tac Tao game create
 - Simple and intuitive user interface.
 - Suitable for all ages.
 
-## Installation
-To get a local copy of the repository up and running, follow these steps:
-
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/your-username/tic-tac-toe-mobile.git
-2. **Open Andriod Studio and launch the game**
-
 ## Rules
 1. Turns:
    - Player 1 uses 'X' and Player 2 uses 'O'.
